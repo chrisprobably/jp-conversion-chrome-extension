@@ -6,7 +6,7 @@ Go to [chrome://extensions/](chrome://extensions/) and click _Load unpacked_ in 
 
 When clicking the extension it does the following:
 
-- Converts Japanese era style dates to western style dates e.g. `昭和58` becomes `1983年`.
+- Converts Japanese era style dates to western style dates e.g. `昭和58年` becomes `1983年`.
 - Converts Japanese 万 (10000) amounts to normal decimal amounts e.g. `580万` becomes `5800000`.
 
 ## Future plans
